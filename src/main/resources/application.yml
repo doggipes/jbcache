@@ -1,0 +1,4 @@
+cache:
+  repository:
+    size: 10000
+    expiration-minutes: 30
